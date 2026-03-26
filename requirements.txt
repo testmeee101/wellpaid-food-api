@@ -1,8 +1,7 @@
 fastapi==0.115.0
 uvicorn==0.30.0
 pillow==10.4.0
-numpy==1.24.3
-tensorflow-cpu==2.13.0
+numpy==1.26.4
+tensorflow-cpu==2.16.1
 requests==2.32.3
 python-multipart==0.0.9
-setuptools==68.0.0
